@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "5.0.1"
+  version: "5.0.2"
 
 package:
   name: brevo-python
@@ -10,7 +10,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/b/brevo-python/brevo_python-${{ version }}.tar.gz
-    sha256: c8f5e3def406395d1c91788ce7df07021564fd89c87d4c9b73b15671df974aec
+    sha256: e317dd78bba01210123dc46d94efb1faf3635f9d58e88fec350c8e33caa75279
 
 build:
   number: 0
